@@ -10,3 +10,19 @@
   font-weight: 700;
   color: #fff;
 }
+
+.categories-image {
+  background-image: url('./assets/meal.jpg');
+  height: 15rem;
+  background-position: 'center';
+  background-size: 'cover';
+  background-repeat: 'no-repeat';
+}
+
+.meal-image {
+  background-image: url('./assets/nightlife.jpg');
+  height: 15rem;
+  background-position: 'center';
+  background-size: 'cover';
+  background-repeat: 'no-repeat';
+}
