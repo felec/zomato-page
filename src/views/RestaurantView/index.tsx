@@ -81,8 +81,6 @@ const Restaurant = () => {
             <span className='hover:text-red-600 text-xs text-gray-600 mr-1 md:mr-2 cursor-pointer'>
               {selected.name}
             </span>
-            <span className='text-xs text-gray-600 mr-1 md:mr-2'>&#47;</span>
-            <span className='text-xs text-gray-500'>{selected.name}</span>
           </div>
           <RestaurantImageGrid />
           <RestaurantDetails details={selected} />
