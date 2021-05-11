@@ -1,0 +1,37 @@
+.zomato-header {
+  font-family: 'Sarala';
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #000;
+}
+
+.grid-layout {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: repeat(6, 1fr);
+  gap: 0.4rem;
+}
+
+.view-gallery {
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0.6) 50%,
+      rgba(0, 0, 0, 0.6) 100%
+    ),
+    url('./assets/meal.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.add-photo {
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0.3) 50%,
+      rgba(0, 0, 0, 0.3) 100%
+    ),
+    url('./assets/food_placeholder.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+.star-fill {
+  background: linear-gradient(to right, #000 50%, #cbd5e0 50%);
+}

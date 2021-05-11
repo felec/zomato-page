@@ -1,0 +1,12 @@
+.header-image {
+  background-image: url('./assets/header-background.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+.zomato-title {
+  font-family: 'Sarala';
+  font-size: 5rem;
+  font-weight: 700;
+  color: #fff;
+}

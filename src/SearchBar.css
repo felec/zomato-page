@@ -1,0 +1,117 @@
+input:focus {
+    outline: none;
+}
+
+.searchbar-shadow {
+    box-shadow: rgba(28, 28, 28, 0.2) 0 0 8px;
+}
+
+.checkbox-arrow:checked ~ .arrow {
+    transform: rotate(180deg);
+    transition: transform 0.2s linear;
+    -webkit-transition: transform 0.2s linear;
+}
+
+.restaurants--container {
+    position: absolute;
+    visibility: visible;
+    opacity: 1;
+    z-index: 2;
+    top: 3.5rem;
+    right: 0;
+}
+
+.restaurants--container--enter {
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    z-index: 2;
+    top: 0;
+    right: 0;
+}
+
+.restaurants--container--enter-active {
+    position: absolute;
+    visibility: visible;
+    opacity: 1;
+    z-index: 2;
+    top: 3.5rem;
+    right: 0;
+    transition: all 0.2s ease-out;
+}
+
+.restaurants--container--exit {
+    position: absolute;
+    visibility: visible;
+    opacity: 1;
+    z-index: 2;
+    top: 3.5rem;
+    right: 0;
+}
+
+.restaurants--container--exit-active {
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    z-index: 2;
+    top: 0;
+    right: 0;
+}
+
+@media only screen and (max-width: 1200px), (min-width: 1200px) {
+    .arrow {
+        top: 35%;
+        left: 32.5%;
+        transform: rotateX(0);
+        transition: transform 0.2s linear;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .arrow {
+        top: 35%;
+        left: 31.5%;
+        transform: rotateX(0);
+        transition: transform 0.2s linear;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .arrow {
+        top: 35%;
+        left: 42.5%;
+        transform: rotateX(0);
+        transition: transform 0.2s linear;
+    }
+}
+
+@media only screen and (max-width: 639px) {
+    .arrow {
+        top: 35%;
+        left: 44.5%;
+        transform: rotateX(0);
+        transition: transform 0.2s linear;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .arrow {
+        top: 35%;
+        left: 42.2%;
+        transform: rotateX(0);
+        transition: transform 0.2s linear;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .arrow {
+        top: 35%;
+        left: 39%;
+        transform: rotateX(0);
+        transition: transform 0.2s linear;
+    }
+}
+
+.checkbox-restaurant {
+    visibility: hidden;
+}
