@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "/zomato-page/static/css/main.823fb8b5.chunk.css",
-    "main.js": "/zomato-page/static/js/main.c6ea0cd5.chunk.js",
-    "main.js.map": "/zomato-page/static/js/main.c6ea0cd5.chunk.js.map",
+    "main.css": "/zomato-page/static/css/main.913e8cb9.chunk.css",
+    "main.js": "/zomato-page/static/js/main.e71ead26.chunk.js",
+    "main.js.map": "/zomato-page/static/js/main.e71ead26.chunk.js.map",
     "runtime-main.js": "/zomato-page/static/js/runtime-main.fe1a7e73.js",
     "runtime-main.js.map": "/zomato-page/static/js/runtime-main.fe1a7e73.js.map",
-    "static/js/2.58c20fb6.chunk.js": "/zomato-page/static/js/2.58c20fb6.chunk.js",
-    "static/js/2.58c20fb6.chunk.js.map": "/zomato-page/static/js/2.58c20fb6.chunk.js.map",
+    "static/js/2.2d956967.chunk.js": "/zomato-page/static/js/2.2d956967.chunk.js",
+    "static/js/2.2d956967.chunk.js.map": "/zomato-page/static/js/2.2d956967.chunk.js.map",
     "index.html": "/zomato-page/index.html",
-    "static/css/main.823fb8b5.chunk.css.map": "/zomato-page/static/css/main.823fb8b5.chunk.css.map",
-    "static/js/2.58c20fb6.chunk.js.LICENSE.txt": "/zomato-page/static/js/2.58c20fb6.chunk.js.LICENSE.txt",
-    "static/media/cuisine-1.jpg": "/zomato-page/static/media/cuisine-1.66b72550.jpg",
-    "static/media/cuisine-2.jpg": "/zomato-page/static/media/cuisine-2.514d39f7.jpg",
-    "static/media/cuisine-3.jpg": "/zomato-page/static/media/cuisine-3.b6184a23.jpg",
-    "static/media/cuisine-4.jpg": "/zomato-page/static/media/cuisine-4.e5496784.jpg",
-    "static/media/cuisine-5.jpg": "/zomato-page/static/media/cuisine-5.ed92b16b.jpg",
-    "static/media/Home.css": "/zomato-page/static/media/header-background.e816360c.jpeg",
-    "static/media/meal.jpg": "/zomato-page/static/media/meal.cd90decc.jpg",
-    "static/media/nightlife.jpg": "/zomato-page/static/media/nightlife.bbd51006.jpg"
+    "static/css/main.913e8cb9.chunk.css.map": "/zomato-page/static/css/main.913e8cb9.chunk.css.map",
+    "static/js/2.2d956967.chunk.js.LICENSE.txt": "/zomato-page/static/js/2.2d956967.chunk.js.LICENSE.txt",
+    "static/media/cuisine-1.66b72550.jpg": "/zomato-page/static/media/cuisine-1.66b72550.jpg",
+    "static/media/cuisine-2.514d39f7.jpg": "/zomato-page/static/media/cuisine-2.514d39f7.jpg",
+    "static/media/cuisine-3.b6184a23.jpg": "/zomato-page/static/media/cuisine-3.b6184a23.jpg",
+    "static/media/cuisine-4.e5496784.jpg": "/zomato-page/static/media/cuisine-4.e5496784.jpg",
+    "static/media/cuisine-5.ed92b16b.jpg": "/zomato-page/static/media/cuisine-5.ed92b16b.jpg",
+    "static/media/Home.css": "/zomato-page/static/media/nightlife.bbd51006.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fe1a7e73.js",
-    "static/js/2.58c20fb6.chunk.js",
-    "static/css/main.823fb8b5.chunk.css",
-    "static/js/main.c6ea0cd5.chunk.js"
+    "static/js/2.2d956967.chunk.js",
+    "static/css/main.913e8cb9.chunk.css",
+    "static/js/main.e71ead26.chunk.js"
   ]
 }
